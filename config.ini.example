@@ -1,0 +1,6 @@
+# 留空 = 自动检测适配器名称
+# 查看适配器名称: PowerShell 中运行 Get-NetAdapter | Select-Object Name, MediaType
+
+[network]
+ethernet_adapter =
+wifi_adapter =

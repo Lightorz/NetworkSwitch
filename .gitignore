@@ -1,0 +1,10 @@
+config.ini
+switch_debug.log
+网络开关.exe
+build/
+dist/
+*.spec
+__pycache__/
+.venv/
+.build_tools/
+release_assets/
